@@ -1,0 +1,15 @@
+[ {
+  "product" : "Primul produs",
+  "numberOrder" : 25,
+  "id" : 345,
+  "adress" : null,
+  "validate" : false,
+  "grades" : [ 4, 5, 6 ]
+}, {
+  "product" : "Al doilea produs",
+  "numberOrder" : 23,
+  "id" : 578,
+  "adress" : null,
+  "validate" : false,
+  "grades" : [ 2, 1, 3 ]
+} ]
